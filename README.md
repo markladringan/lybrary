@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Rsbuild project
 
 ## Setup
@@ -34,3 +35,6 @@ To learn more about Rsbuild, check out the following resources:
 
 - [Rsbuild documentation](https://rsbuild.rs) - explore Rsbuild features and APIs.
 - [Rsbuild GitHub repository](https://github.com/web-infra-dev/rsbuild) - your feedback and contributions are welcome!
+=======
+# lybrary
+>>>>>>> 5d1e8d372e0e818707872714b79a643fb6688e85
